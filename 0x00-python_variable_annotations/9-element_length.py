@@ -2,7 +2,6 @@
 """
 This module provides a function that returns a list of tuples
 """
-
 from typing import Iterable, Sequence, List, Tuple
 
 

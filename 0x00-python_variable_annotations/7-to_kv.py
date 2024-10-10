@@ -2,7 +2,6 @@
 """
 This module provides a function to create a tuple from a string and an int/float.
 """
-
 from typing import Union, Tuple
 
 
