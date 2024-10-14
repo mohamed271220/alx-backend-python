@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""  this module contains a function for measuring the runtime of wait_n
+"""Task 4's module.
 """
 import asyncio
 from typing import List
